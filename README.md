@@ -39,7 +39,7 @@ python main.py
 -------------------------------------------------------------------------
 
 
-![Screenshot from 2021-06-18 16-06-10](https://user-images.githubusercontent.com/64825911/122551877-31205e80-d053-11eb-8651-06ec8c83d977.png)
+![Screenshot from 2021-06-1![Bulk Mailing](https://user-images.githubusercontent.com/54586517/125111264-53157a00-e103-11eb-973b-d2b232010234.png)
                                                          **The Outlay of our GUI**
 
 ![Screenshot from 2021-06-18 16-08-41](https://user-images.githubusercontent.com/64825911/122552095-7d6b9e80-d053-11eb-806f-5b9c1a1b1cef.png)
