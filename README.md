@@ -1,4 +1,4 @@
-# Mass-mailing-encrypted-data
+# Bulk-Mailing-System
 Mass Mailing personalised encrypted files(pdfs) with personalised mail using SQLlite database. This mass-mailing application can send an encrypted PDF to the recipients. The password is set as default to be the Datae of Birth . However it can be changed . A basic database is included . The database can be manipulated by modifying the functions given in database_manage.py. The Database contains Name, Email and DOB columns. the program extracts the DOB and Email from this table. 
 
 ## Setting up the enviroment
