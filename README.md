@@ -76,4 +76,4 @@ python main.py
 ## Appreciation
 ---------------------------------------------------------------------------
 
-The project would not have been possible without contributions from [Aditya Goyal](https://github.com/adigo12), [Nirav Jayesh Parmar](https://github.com/Nirav0702). Made with love,  in Python .
+The project would not have been possible without contributions from [Aditya Goyal](https://github.com/adigo12), [Anwesan De](https://github.com/19-ade). Made with love,  in Python .
