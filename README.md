@@ -57,7 +57,7 @@ python main.py
 
 **Messagebox confirmation feature**
 
-![Screenshot from 2021-06-18 16-10-03](https://user-images.githubusercontent.com/64825911/122552242-ae4bd380-d053-11eb-9197-e5169634cf0d.png)
+
 
 **Deleting from the Database with just the name or email or DOB.**
 
