@@ -7,7 +7,7 @@ Mass Mailing personalised encrypted files(pdfs) with personalised mail using SQL
 1. Clone the Mass-mailing-encrypted-data repo
 
 ```
-git clone https://github.com/19-ade/Mass-mailing-encrypted-data.git
+git clone https://github.com/Nirav0702/Bulk-Mailing-System.git
 ```
 Navigate your way to the Mass mailing encrypted data folder. 
 
