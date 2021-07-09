@@ -59,9 +59,14 @@ python main.py
 
 ![Screenshot from 2021-06-18 16-10-03](https://user-images.githubusercontent.com/64825911/122552242-ae4bd380-d053-11eb-9197-e5169634cf0d.png)
 
-**Deleting from the Database with just the email. More fetures will be added**
+**Deleting from the Database with just the name or email or DOB. More fetures will be added**
 
-![Screenshot from 2021-06-18 16-11-36](https://user-images.githubusercontent.com/64825911/122552315-c7ed1b00-d053-11eb-9188-454f788bd75e.png)
+![delete_user](https://user-images.githubusercontent.com/54586517/125114157-354a1400-e107-11eb-8394-2888db09ec03.png)
+
+**Deletion Confirmation**
+
+![delete_confirm](https://user-images.githubusercontent.com/54586517/125114275-6591b280-e107-11eb-9bb9-abf7a5464b2e.png)
+
 
 **Confirmation messagebox on successfully sending all the mails**
 
