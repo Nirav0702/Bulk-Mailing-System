@@ -45,8 +45,11 @@ python main.py
 
 ![add_name](https://user-images.githubusercontent.com/54586517/125112725-2b271600-e105-11eb-86e2-d109c706d9a8.png)
 
+![add_name_confirmation](https://user-images.githubusercontent.com/54586517/125112902-75a89280-e105-11eb-8518-34588a35a6e3.png)
 
-![Screenshot from 2021-06-18 16-07-24](https://user-images.githubusercontent.com/64825911/122552043-6cbb2880-d053-11eb-8007-83ace008b4de.png)
+**Messagebox confirmation**
+
+![add_name_final_confirm](https://user-images.githubusercontent.com/54586517/125113748-aa691980-e106-11eb-80f4-3b8468a692fa.png)
 
 **messagebox confirming the pdf to be uploaded**
 
