@@ -37,14 +37,14 @@ python main.py
 
 ## A visual 
 -------------------------------------------------------------------------
-
+                                                         **The Outlay of our GUI**
 
 ![Bulk Mailing](https://user-images.githubusercontent.com/54586517/125111264-53157a00-e103-11eb-973b-d2b232010234.png)
-                                                         **The Outlay of our GUI**
+
+**Inputs for appending to the Database**
 
 ![Screenshot from 2021-06-18 16-08-41](https://user-images.githubusercontent.com/64825911/122552095-7d6b9e80-d053-11eb-806f-5b9c1a1b1cef.png)
 
-**Inputs for appending to the Database**
 
 ![Screenshot from 2021-06-18 16-07-24](https://user-images.githubusercontent.com/64825911/122552043-6cbb2880-d053-11eb-8007-83ace008b4de.png)
 
