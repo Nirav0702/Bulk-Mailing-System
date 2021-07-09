@@ -59,7 +59,7 @@ python main.py
 
 ![Screenshot from 2021-06-18 16-10-03](https://user-images.githubusercontent.com/64825911/122552242-ae4bd380-d053-11eb-9197-e5169634cf0d.png)
 
-**Deleting from the Database with just the name or email or DOB. More fetures will be added**
+**Deleting from the Database with just the name or email or DOB.**
 
 ![delete_user](https://user-images.githubusercontent.com/54586517/125114157-354a1400-e107-11eb-8394-2888db09ec03.png)
 
