@@ -51,14 +51,6 @@ python main.py
 
 ![add_name_final_confirm](https://user-images.githubusercontent.com/54586517/125113748-aa691980-e106-11eb-80f4-3b8468a692fa.png)
 
-**messagebox confirming the pdf to be uploaded**
-
-![Screenshot from 2021-06-18 16-09-02](https://user-images.githubusercontent.com/64825911/122552207-a1c77b00-d053-11eb-8b6a-d0a15726abcc.png)
-
-**Messagebox confirmation feature**
-
-
-
 **Deleting from the Database with just the name or email or DOB.**
 
 ![delete_user](https://user-images.githubusercontent.com/54586517/125114157-354a1400-e107-11eb-8394-2888db09ec03.png)
